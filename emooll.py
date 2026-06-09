@@ -6,6 +6,7 @@ import smtplib
 import time
 from email.mime.text import MIMEText
 from telethon import TelegramClient, events, Button
+print("البوت اشتغل يا عبده، أنا شايفك!")
 
 # --- [ الإعدادات الملكية ] ---
 API_ID = 33898633
